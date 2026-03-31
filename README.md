@@ -26,11 +26,10 @@ This repository contains the data engineering pipeline for the Estate Mind proje
 * pipelines
 
 ## Contributors
-Salma Alaya
-Wissem Bahar
-Yosser Ben mahmoud
-Wissal Bahar
-
-
 * Manar Zaghouani
+* Salma Alaya
+* Wissem Bahar
+* Yosser Ben mahmoud
+* Wissal Bahar
+* Nourhen Mraeih
 
